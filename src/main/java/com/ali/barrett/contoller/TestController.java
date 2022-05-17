@@ -12,7 +12,7 @@ public class TestController {
     public String test(){
         Apply apply = new Apply();
         apply.test();
-        return "李雨婷是个小可爱吗？";
+        return "李雨婷是个小可爱吗？不，她是小蹄子";
     }
 
     public static void main(String[] args) {
